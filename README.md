@@ -16,7 +16,6 @@ if the development tools are not used and should be removed from the shop instal
 
 if the dev tools are to be used again
 
-* Manually clean up the replacement module entry (d3/oxid-dev-replacement) from the vendor/composer/installed.json and composer.lock files.
 * Run this composer statement in your shop. Adjust this instruction if your installation requires it.
 
     `composer remove d3/oxid-dev-replacement --update-no-dev`
