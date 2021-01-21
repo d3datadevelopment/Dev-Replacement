@@ -44,7 +44,11 @@
     "phpunit/php-code-coverage": "*",
     "phpunit/phpunit": "*",
     "theseer/fdomdocument": "*",
-    "sebastian/finder-facade": "*"
+    "sebastian/finder-facade": "*",
+    "oxid-esales/testing-library": "*",
+    "oxid-esales/oxideshop-ide-helper": "*",
+    "oxid-esales/coding-standards": "*",
+    "incenteev/composer-parameter-handler": "*"
   },
   "license": "GPL-3.0-or-later"
 }
