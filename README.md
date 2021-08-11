@@ -11,7 +11,7 @@ if the development tools are not used and should be removed from the shop instal
 * Run this composer statement in your shop. Adjust this instruction if your installation requires it.
 
     ```
-    composer require d3/oxid-dev-replacement
+    composer require d3/oxid-dev-replacement --no-scripts --no-plugins
     composer remove phpunit/phpcov pdepend/pdepend behat/mink-goutte-driver oxid-esales/mink-selenium-driver squizlabs/php_codesniffer mikey179/vfsstream
     ```
 
