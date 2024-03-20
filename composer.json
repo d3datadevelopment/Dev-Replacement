@@ -2,7 +2,7 @@
   "name": "d3/oxid-dev-replacement",
   "description": "Removes / prevent installation of the dev packages, if they're not used and should be removed from the installation.",
   "require": {
-    "oxid-esales/oxideshop-metapackage-ce": "^6.0"
+    "oxid-esales/oxideshop-metapackage-ce": "^6.0 || ^7.0"
   },
   "replace": {
     "oxid-esales/testing-library": "*",
